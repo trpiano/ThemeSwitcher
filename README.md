@@ -2,7 +2,6 @@
   <img src="./src/assets/icons/icon.png" alt="Switcher Icon" />
 </div>
 
-<hr/>
 <br>
 
 ## About
