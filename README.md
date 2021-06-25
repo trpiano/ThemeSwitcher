@@ -27,7 +27,7 @@ This application aims to change the application themes between dark and light th
 The following tools were used in this project:
 
 - [React](https://pt-br.reactjs.org/)
-- [Typecript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Styled Componensts](https://styled-components.com/)
 
 ## Requirements
