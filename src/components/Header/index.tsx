@@ -1,6 +1,7 @@
 import React, { useContext } from 'react';
 import { ThemeContext } from 'styled-components';
 
+// Switcher
 import Switch from 'react-switch';
 
 import { Container } from './styles';

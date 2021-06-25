@@ -1,46 +1,64 @@
-# Getting Started with Create React App
+<div align="center" id="top"> 
+  <img src="./src/assets/icons/icon.png" alt="Switcher Icon" />
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<hr/>
+<br>
 
-## Available Scripts
+## About
 
-In the project directory, you can run:
+This application aims to change the application themes between dark and light themes according to whether the switcher is active or not. The information of the selected theme is stored in a variable named "key" in the browser's local storage, so the selected theme remains even after page updates.
 
-### `yarn start`
+## Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<div align="center" id="top"> 
+  <img src="./src/assets/img/light_theme.png" alt="Light Theme" />
+</div>
+<br/>
+<div align="center" id="top"> 
+  <img src="./src/assets/img/dark_theme.png" alt="Dark Theme" />
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Features
 
-### `yarn test`
+- Alteração de temas predefinidos (dark and light).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies
 
-### `yarn build`
+The following tools were used in this project:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React](https://pt-br.reactjs.org/)
+- [Typecript](https://www.typescriptlang.org/)
+- [Styled Componensts](https://styled-components.com/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Requirements
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Before starting 🏁, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-### `yarn eject`
+## Starting
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+# Clone this project
+$ git clone https://github.com/trpiano/ThemeSwitcher
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Access
+$ cd ThemeSwitcher
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Install dependencies
+$ yarn
+# Or
+$ npm
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Run the project
+$ yarn dev
+# Or
+$ npm start
 
-## Learn More
+# The server will initialize in the <http://localhost:3000>
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Made with 💜 by <a href="https://github.com/trpiano" target="_blank">Timóteo Piano</a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+&#xa0;
+
+<a href="#top">Back to top</a>

@@ -6,7 +6,7 @@ import usePersistedState from './utils/usePersistedState'
 
 import GlobalStyle from './styles/global'
 
-//Import Default Theme
+//Import Themes
 import light from './styles/themes/light'
 import dark from './styles/themes/dark'
  
