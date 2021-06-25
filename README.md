@@ -21,7 +21,7 @@ This application aims to change the application themes between dark and light th
 
 ## Features
 
-- Alteração de temas predefinidos (dark and light).
+- Change of predefined themes (dark and light).
 
 ## Technologies
 
