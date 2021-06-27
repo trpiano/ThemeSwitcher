@@ -53,10 +53,10 @@ The following tools were used in this project:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled Componensts](https://styled-components.com/)
 
-## :white_check_mark: Live ##
+## :computer: Live ##
 
   [ThemeSwitcher](https://theme-switcher-10yqyi19g-trpiano.vercel.app/)
-  
+
 ## :white_check_mark:  Requirements ##
 
 Before starting 🏁, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
